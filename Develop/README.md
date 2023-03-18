@@ -1,14 +1,14 @@
 https://github.com/kyle-mucerino/READMEgenerator.git
 # READMEgenerator
   ## description 
-  creating dynamically updated README file
+  creating a dynamically updated README . lefi
   ##installation
   npm i
   ##tests
   npm run test
   ##usage
-  edit the repo by accessing READMEGenerator Repo
+  access READMEgenerator 
   ##contribution
-  contributions to the repo
+  contributions to 
   ##license
   ISC
