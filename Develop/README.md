@@ -1,13 +1,14 @@
-# README generator
+https://github.com/kyle-mucerino/READMEgenerator.git
+# READMEgenerator
   ## description 
-  creating a dynamically created README    file
+  creating dynamically updated README file
   ##installation
   npm i
   ##tests
-  npm run tests
+  npm run test
   ##usage
-  find READEMEgenerator
+  edit the repo by accessing READMEGenerator Repo
   ##contribution
-  contributing to the repo
+  contributions to the repo
   ##license
   ISC
